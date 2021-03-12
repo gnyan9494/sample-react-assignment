@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './styles/index.css'
-import './styles/bootstrap-custom.scss'
+import './assets/styles/index.css'
+import './assets/styles/bootstrap-custom.scss'
 import Routes from './routes/'
 import reportWebVitals from './reportWebVitals'
 
